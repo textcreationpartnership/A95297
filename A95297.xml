@@ -1,0 +1,244 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True relation or accompt of the whole procedure between the Corporation at Canterbury, and Mr. John Somner, concerning the New-Market- House there</title>
+            <author>Somner, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1666</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95297</idno>
+            <idno type="STC">Wing T3082</idno>
+            <idno type="STC">ESTC R42943</idno>
+            <idno type="EEBO-CITATION">38875970</idno>
+            <idno type="OCLC">ocm 38875970</idno>
+            <idno type="VID">152464</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95297)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152464)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2297:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True relation or accompt of the whole procedure between the Corporation at Canterbury, and Mr. John Somner, concerning the New-Market- House there</title>
+                  <author>Somner, John.</author>
+               </titleStmt>
+               <extent>[6], 15 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed. 1666.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 15: John Somner.</note>
+                  <note>Signatures:</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Somner, John.</term>
+               <term>Marketplaces --  England --  Canterbury --  Early works to 1800.</term>
+               <term>Canterbury (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152464:1"/>
+            <p>A True Relation OR ACCOMPT OF <hi>The whole</hi> PROCEDURE BETWEEN <hi>The Corporation at</hi> CANTERBURY, AND Mr. <hi>John Somner, Concerning the</hi> NEW-MARKET-HOUSE <hi>there.</hi>
+            </p>
+            <q xml:lang="lat">
+               <p>Nihil charius aeſtimamus, quàm beneficium,<lb/> Quod diu petimus: nihil vilius, cum accepimus.</p>
+               <bibl>Seneca.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed. 1666.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:152464:2"/>
+            <pb facs="tcp:152464:2"/>
+            <head>The PREFACE.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HAT the public and common good and be<g ref="char:EOLhyphen"/>nefit of any place or Society is of every individual Member in particular; but more eſpecially, of the Repreſentatives of that So<g ref="char:EOLhyphen"/>ciety in general, rather to be ſtu<g ref="char:EOLhyphen"/>died, than their own private or particular ends or intereſts; none (doubtleſs) will offer to deny. And yet by ſad experience what more frequently found true, than the quite contrary? Aſwell whole So<g ref="char:EOLhyphen"/>cieties,
+<pb facs="tcp:152464:3"/>as particular members too too often caſting off all care of the Publick, and abandoning themſelves to ſelfiſhneſs, and the ſtudy only of their own private commodity.</p>
+            <p>How happy then (becauſe ſo rare) is the condition of that Socie<g ref="char:EOLhyphen"/>ty, where ſuch a <hi>Genius,</hi> ſuch a general concent in promoting the common good of the place univerſally obtains, and is diffuſed throughout the whole body! Where this fails, as moſt where it doth) the next happineſs to it of this kind, is to find ſuch a publick ſpiritedneſs in ſingle and particular perſons, (whe<g ref="char:EOLhyphen"/>ther members of, or friends to ſuch a Society) as makes them to be<g ref="char:EOLhyphen"/>come examples to others of piety and
+<pb facs="tcp:152464:3"/>bounty, by acts of publick and com<g ref="char:EOLhyphen"/>mon benefit to the place: And conſequently, to what a kind and welcome entertainment, to what a return of gratitude, is that Society obliged, who are made the objects of ſuch publick piety and beneficence!</p>
+            <p>If ſo; how much then is that So<g ref="char:EOLhyphen"/>ciety to blame, which is not only ſlack and backward to ſuch acts of publick good themſelves; but alſo to incourage and return thanks to thoſe particular perſons, to whom God hath given, together with ability, ſuch a publick ſpirit and mind, as (in any eminent degree, at leaſt) to become their benefactors! Whether there be ſuch a Society, or not, at this day, let who ſo will he judge
+<pb facs="tcp:152464:4"/>that ſhall conſult the following Mir<g ref="char:EOLhyphen"/>rour, repreſenting not the ill requi<g ref="char:EOLhyphen"/>tal and unworthy uſage of Arch-Biſhop <hi>Abbot,</hi> the Founder of their noble Conduit, by a prevailing fa<g ref="char:EOLhyphen"/>ction, (headed by a <hi>Peterling</hi>) among their praedeceſſors; but (that which cannot but revive the me<g ref="char:EOLhyphen"/>mory of it) the unworthy Enter<g ref="char:EOLhyphen"/>tainment of a new piece of benefi<g ref="char:EOLhyphen"/>cence by a like faction in the pre<g ref="char:EOLhyphen"/>ſent Corporation: notwithſtanding that foundation of gratitude, and better uſage from them, but newly laid by the Benefactor, as being chiefly active and inſtrumental in procuring new Gates for the City; impiouſly robbed of their old by the Rebels, from the late Archbiſhop <hi>Juxon.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:152464:4"/>
+            <head>A true Relation or Accompt of the whole Proceedure between the Corporation at <hi>Canterbury</hi> and Mr. <hi>John Somner.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>HAT uſeful and antient Structure of Stone, of a circular form, graced with an aſcent of ſeveral ſteps, for peoples accommo<g ref="char:EOLhyphen"/>dation to ſit upon, and expoſe their wares, and (for their better ſhelter from foul weather) covered over head with a plat<g ref="char:EOLhyphen"/>form of Lead; the <hi>Market-Croſs</hi> at <hi>Canterbury,</hi> built by the bounty and piety of a <hi>quondam</hi> wealthy Alderman, of grate<g ref="char:EOLhyphen"/>ful memory, being in the late times of miſ-rule and con<g ref="char:EOLhyphen"/>fuſion, beaten down and ſwept away by the avarice and im<g ref="char:EOLhyphen"/>piety of a beggerly factious Alderman, of hateful memory, to the diſhonour of the City, and detriment of Town and Country: and the Citizens (ſenſible of the want of ſuch a piece, both of ornament and uſe) being, as I was, full of their wiſhes and longings for the day, when the generous and publick ſpirit of ſome good Benefactor, would pro<g ref="char:EOLhyphen"/>voke and engage their gratitude by adorning and accom<g ref="char:EOLhyphen"/>modating
+<pb n="2" facs="tcp:152464:5"/>their City with a new piece, another pile of that nature: and after a long and tedious time of expectation, none offering at the undertaking, I, though one of the meaneſt among the many naives of the place, yet impa<g ref="char:EOLhyphen"/>tient of the Cities want of an accommodation, ſo uſeful as well as ornamental; and finding others more able than willing, gave leave and way to my will to out-vy my abi<g ref="char:EOLhyphen"/>lity, rather than the place of my Nativity ſhould any longer ſuffer under the reproch of ſuch a great defect: not doubting of the encouragement of the virtuous underta<g ref="char:EOLhyphen"/>king by the courteous acceptance of it from my fellow-Citizens: and the rather becauſe of the publick good which from the beginning I propounded to my ſelf, and made known to ſome of them in this affair. But it falling out otherwiſe; inſomuch as my real intentions for reſign<g ref="char:EOLhyphen"/>ing all up to publick and pious uſes, are now quite altered, I thought it not amiſs (for their ſatisfaction who may in<g ref="char:EOLhyphen"/>quire into the cauſe) to give them an accompt of the whole tranſaction, leaving it to them freely to judge at whoſe Dore the blame lies.</p>
+            <p>Having therefore, by the Cities free permiſſion, and with the expence of Four hunded pounds and upwards, e<g ref="char:EOLhyphen"/>rected and completed a Market-houſe, (a piece of ſuch Elegancy as much commends the Architect) conſiſting of a double Story, divided into two fair rooms a piece, with a Pavement of Stone underneath, very uſeful for walking, out of Market time; and all this (in my intentions) de<g ref="char:EOLhyphen"/>dicated to publick and pious uſes, without any jot of pro<g ref="char:EOLhyphen"/>fit or advantage reſerved either to me or mine: and think<g ref="char:EOLhyphen"/>ing it now a convenient time to broach my deſigne, and make it openly known to the Corporation, I drew a pro<g ref="char:EOLhyphen"/>ſpect of it in writing, and by the mediation of a very worthy<note n="*" place="margin">
+                  <hi>Mr.</hi> L. B.</note> friend, (one of themſelves) communicated it unto them under the term and title of Propoſitions of this tenor.</p>
+            <q rend="margQuotes">
+               <pb n="3" facs="tcp:152464:5"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="proposals">
+                        <head>Certain Propoſals, concerning the Market-Houſe at the <hi>Bulſtake</hi> in <hi>Canterbury,</hi> by me <hi>John Somner,</hi> the Sole Founder and Builder thereof, made to the right worſhipful the Maior and the Court of Burgmote, <hi>October 24. 1665.</hi> upon their Sealing of my Leaſe.</head>
+                        <p>ALL things, according to mutual agreement between us, being accompliſhed, to the good content and ſatisfaction (I hope) of both parties; that is to ſay, on my part, the Market-houſe being erected, and nothing wanting to the completing of it, ac<g ref="char:EOLhyphen"/>cording to my covenant, but what is now in hand, and with all convenient ſpeed ſhall (God willing) be punctually perfected: and on your part, the Leaſe of the Superſtructure, according to your Covenant being made and delivered me, whereby I am become the true and ſole Owner thereof, and the thing in my free power to diſpoſe of, during my Leaſe: To let you, and poſterity after you, know and ſee, how in this work I have ſtudied the publick good, ho<g ref="char:EOLhyphen"/>nour and benefit of the City and Country, and the the encouragement of other perſons of ability, by my example, to do the like in ſome kind or other, much and far more than my own private profit, or advantage, which the Searcher of hearts knows to be ſpoken without the leaſt oſtentation or deſire of vain-glory or popular applauſe: <milestone type="tcpmilestone" unit="unspecified" n="1"/> I do ſo far re<g ref="char:EOLhyphen"/>nounce my own intereſt in that part of the Super<g ref="char:EOLhyphen"/>ſtructure which looketh Weſtward, as freely to per<g ref="char:EOLhyphen"/>mit
+<pb n="4" facs="tcp:152464:6"/>and admit you to a participation with me in the uſe and accommodation of the Chamber there, at all times when you ſhall have occaſion of meeting there together, or any Six or more of you, upon any publick accompt concerning the City; and that during my life time, and the life time of my Bro<g ref="char:EOLhyphen"/>ther Mr. <hi>William Somner,</hi> if he ſurvive me.</p>
+                        <p>
+                           <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, I do as freely grant and permit the uſe and accommodation of the ſaid Chamber, to all and every of the ſix Companies of the City, <hi>viz.</hi> the <hi>Drapers, Taylors, Mercers, Grocers, Carpenters, Smiths,</hi> and <hi>Shoo makers,</hi> for their and every of their meeting there together, upon any occaſion concerning their Companies Affairs, during the term aforefaid. And after mine and my ſaid Brothers Deceaſe, I abſo<g ref="char:EOLhyphen"/>lutely give, reſign up, and relinquiſh the ſaid room to you and them in perpetuity, for the uſes and pur<g ref="char:EOLhyphen"/>poſes aboveſaid.</p>
+                        <p>
+                           <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, In Charity to the Poor, I preſently give up unto you and your Succeſſors, the Garret or Up<g ref="char:EOLhyphen"/>per Story over the Chamber at the Eaſt end of the ſaid Market-houſe, for a Store-houſe and place of Stowage, for a Stock of Corn for the Poor of the Six out-patiſhes of the City, <hi>Weſtgate, St. Dunſtan, Northgate, St. Pauls, St. Mildredt, St. Georges,</hi> and of one of the In-Pariſhes (becauſe I was born there) St. <hi>Alphage.</hi> And to handſell the place, and become (as I hope) as a leading, ſo a lucky ex<g ref="char:EOLhyphen"/>ample of Charity in this kind to others, I do en<g ref="char:EOLhyphen"/>gage at my own charge, to lay in there, for that uſe, Twenty Seams or Quarters of Wheat aſſoon as the room can be made ready, and fitting to receive it: intending it ſhall lye and be kept there (as in a Store-houſe) againſt a Time, or Year, of Dearth or Scarcety, and then be delivered out at ſuch rates and
+<pb n="5" facs="tcp:152464:6"/>prizes as the Stock may thereby be renewed with ſuch ad<g ref="char:EOLhyphen"/>vantage as the Mayor and Aldermen for the time being ſhall think fit. And if, by Gods goodneſs and mercy, no ſuch dearth ſhall happen in the mean time, it ſhall be in the power of the then Mayor and Court of Al<g ref="char:EOLhyphen"/>dermen, at 3, 4, or 5. years end, and ſo from time to time for ever, to ſell and put off the ſaid 20. Seams of Wheat; provided that within 12. moneths time next following, they ſhall be bound to renew and recruit the Stock with as much new Wheat, and, if it may be, with advantage. And I hope, the room being of a capacity to receive twice as much Corn, this example of mine will (which God grant) invite and encourage thoſe of more ability to add unto the Stock. And ſhould it pleaſe God to ſtir up ſuch a number of charitable Bene<g ref="char:EOLhyphen"/>factours as that the Room will not be able to bear ſo great a Stock of Corn, (for I would have care taken it be not over-burthened:) I ſhall freely part with the other Store-houſe alſo, that I mean oppoſite unto it, at the Weſt end of the ſaid Market-houſe, for the ſame uſe; ſo as the Corn be ſent in within 12. moneths next enſuing the Date hereof.</p>
+                        <p>
+                           <milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly, as there is room under the firſt ſtair-caſe, the Rent whereof will ſerve to pay for the cleaning of the Market, and turning of the Corn, ſo I as freely give it up and put it over to you the ſaid Mayor and Aldermen and your Succeſſors, for that intent and purpoſe, with full power to hire or rent it out for the beſt advantage.</p>
+                        <p>This and all the reſt, I freely conferre and beſtow as aforeſaid, yet with and under theſe limitations and conditions here enſuing, and not otherwiſe, <hi>viz.</hi>
+                        </p>
+                        <p>
+                           <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, that you the Mayor and Aldermen be obliged to perform and do what on your part is required to be performed and done, as touching the ordering and ma<g ref="char:EOLhyphen"/>naging of the Stock of Corn for the Poor.</p>
+                        <pb n="6" facs="tcp:152464:7"/>
+                        <p>
+                           <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, that both you, and the ſix Companies ſhall ingage for the keeping the whole Market-houſe afore<g ref="char:EOLhyphen"/>ſaid, from time to time in good adn needfull repair, at your and their coſts and charges.</p>
+                        <p>
+                           <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, That the Door-keeper of the Chamber, Store-houſe, or Store-houſes aforeſaid ſhall be left to the nomination and appointment of my ſelf, during my life, and after my deceaſe to the nomination and appoint<g ref="char:EOLhyphen"/>ment of my ſaid Brather, if he ſurvive me, during his life.</p>
+                        <p>
+                           <milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly, That the Market there ſhall from hence<g ref="char:EOLhyphen"/>forth for ever be made a Free-Market for Town and Countrey.</p>
+                        <p>
+                           <milestone type="tcpmilestone" unit="unspecified" n="5"/> Fifthly, That no Huckſter be permitted to buy any thing there, to utter and ſell again there; which is a com<g ref="char:EOLhyphen"/>mon thing, but indeed a very great abuſe; as I have obſerved ſince the Market-houſe was in building.</p>
+                        <p>
+                           <milestone type="tcpmilestone" unit="unspecified" n="6"/> Sixthly, That the Countrey people coming with Proviſion to the Market there to ſell, may have what room the place will afford (for which end it was chief<g ref="char:EOLhyphen"/>built) and not be turned out or excluded (as they now are, many of them) by thoſe that ſell Herbs, Roots, and ſuch kind of Huck-ſtry-ware, to the diſhonour of the Town, and Market.</p>
+                        <p>All which Conditions and Limitations I conceive to be ſo reaſonable, and (if well lookt after and obſerved) ſo honourable and advantageous to the City, (as tend<g ref="char:EOLhyphen"/>ing only to the publick good, and no more to my own private benefit than in common with others) as that I cannot doubt of your readineſs, in all particulars here propounded, to cloſe with</p>
+                        <closer>
+                           <salute>(Right Worſhipfull)</salute>
+                           <signed>Your humble Servant <hi>JOHN SOMNER.</hi>
+                           </signed>
+                        </closer>
+                        <postscript>
+                           <pb n="7" facs="tcp:152464:7"/>
+                           <p>Upon further conſideration, That I may clear my ſelf to all the world of ſelf-ends, or deſigning any private advan<g ref="char:EOLhyphen"/>tage to me or mine by this Work, wherewith many male<g ref="char:EOLhyphen"/>volent and unthankfull perſons have been apt and for<g ref="char:EOLhyphen"/>ward to blaſt, and (if they could) to diſcourage, my pub<g ref="char:EOLhyphen"/>lick undertaking; I do now further declare my ſelf, that I am alſo willing to forgo the whole benefit (before reſer<g ref="char:EOLhyphen"/>ved to my ſelf) of that other part of the firſt Story, the Ea<g ref="char:EOLhyphen"/>ſtern Chamber of the Market-houſe aforeſaid: offering and leavihg it to the choice of the preſent Mayor and Al<g ref="char:EOLhyphen"/>dermen and their Succeſſors, whether I ſhall employ and hire it out to the beſt and moſt advantage my ſelf, or leave it to them ſo to do: but ſo as in either caſe the whole yeerly Rent and Revenue thereof, which I cannot reckon at leſs than 5. <hi>l. per annum,</hi> ſhall go to the relief of the ten <hi>Inbrothers</hi> and <hi>Inſiſters</hi> of <hi>Eaſt-bridge</hi> Hoſpital for ever, as an augmentation to their poor and beggarly maintenance. And ſo Gods bleſſing be upon the Work, and thoſe that ſhall take example by it; whileſt, with ſincerity of heart, I ſhall take up that of the Prophet <hi>David: Not unto us, O Lord,</hi> &amp;c.</p>
+                        </postscript>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Upon the communication of this Paper, the whole Houſe of <hi>Burgmote</hi> (who till then had me in ſome ſuſpition for aiming at matter of private advantage to my ſelf, ſo far at leaſt as untill I were reimburſed) was ſo exceedingly, not only ſatisfied, but taken with my Propoſals, as after an unanimous approbation and ap<g ref="char:EOLhyphen"/>plauſe, they voted and gave out in writing under their Town-Clerks hand, an Order for a Committee to give me a meeting in the new Market-houſe, for conſider<g ref="char:EOLhyphen"/>ing, conſulting, and concluding a way for ſetling the whole affair according to my own deſire, as by this fol<g ref="char:EOLhyphen"/>lowing Copy will appear.</p>
+            <q rend="margQuotes">
+               <pb n="8" facs="tcp:152464:8"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="official_order">
+                        <opener>
+                           <dateline>
+                              <note place="margin">Civitas Cantuar.</note>Cur' Burgomati tenta <date>ibidem die Martis, ſcilicet, ſeptimo die Novembris, anno Regni Domini noſtri <hi>Caroli</hi> Secundi nunc Regis <hi>Angliae,</hi> &amp;c. Decimo ſep<g ref="char:EOLhyphen"/>timo.</date>
+                           </dateline>
+                        </opener>
+                        <p>Whereas <hi>John Somner</hi> Gent. out of a further deſire and intention of the publick good, honour, and be<g ref="char:EOLhyphen"/>nefit of this City and Country, hath been pleaſed to preſent unto this Court certain good propoſals concer<g ref="char:EOLhyphen"/>ning the Market-houſe at the <hi>Bulſtack;</hi> thereby declaring his mind and good intent touching the ſame: It is or<g ref="char:EOLhyphen"/>dered by this Court, that the ſaid propoſals and every of them ſhall and are hereby accepted and approved of. And to the end that the ſaid Market-place, and other the Superſtructures and things in the ſaid Propoſals men<g ref="char:EOLhyphen"/>tioned, may be the better ſettled and eſtabliſhed by this Court, according to the deſire, mind, and intent of the
+<pb n="9" facs="tcp:152464:8"/>ſaid <hi>John Somner;</hi> and for the better ſatisfaction of the ſaid <hi>John Somner,</hi> It is though fit, and ordered by this Court, That the Maior of the ſaid City, or any five or ſix of the Alder<g ref="char:EOLhyphen"/>men, whereof the Maior to be one, or any Ten of the Common-Councel, whereof the Recorder to be one, ſhall meet together on <hi>Fryday</hi> next at Two of the Clock in the Afternoon, at the ſaid Market-place called the <hi>Bul<g ref="char:EOLhyphen"/>ſtack</hi>-Market, and ſhall confer with the ſaid <hi>John Somner</hi> about the ſame: and what ſhall by them be thought re<g ref="char:EOLhyphen"/>quiſite and neceſſary for the ordering, ſerling, and eſtabliſhing of the ſaid Market-place, and other things in the ſaid Propoſals mentioned, ſhall certifie at the next Burghmote.</p>
+                        <closer>
+                           <signed>Lovelace.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>One thing which I principally deſigned and expected to be gratified in by the Town (although of no par<g ref="char:EOLhyphen"/>ticular advantage to my ſelf) was, a <hi>Free-Market.</hi>
+               <pb n="10" facs="tcp:152464:9"/>By long obſervation and experience I had found the want of it, and the diſhonour and damage both<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> re<g ref="char:EOLhyphen"/>dounding to the City by the contrary. For, through the over-rigorous exacting of Tole by the Clerk of the Market, (who gave the City but a ſhort accompt of it, and is beſides, a perſon who ſtands branded by themſelves upon Record, for ſeveral miſcarriages in his place) the Sellers were and are wont to hide up a good part of their wares, and not bring them forth into the Market, but by parcels, whereby the Buyer can not have his choice, but muſt take what he finds at the Sellers price, or be gon. Hereof a multitude both in Town and Country daily complaining, I could not but ſtudy the remedying of it.</p>
+            <p>This (the Free-Market) went down with the Cor<g ref="char:EOLhyphen"/>poration very well at firſt, and becauſe their Cl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rk (if the Market were infranchiſed and ſet free) might ſuffer ſomewhat in the matter of his livelyhood, they were very forward to declare themſelves contented (for the Publicks ſake) to be put upon the ſeeking out ſome expedient (at their own charge). for making him a compenſation, and (by ſome overtures from me) ſoon found that a ſmall matter would do it. But not long after, by his endevours with the Chamberlaine, (than whom none more forward for a Free-Market, when the houſe was ſetting up) and ſome other of the Leading par<g ref="char:EOLhyphen"/>ty in the Houſe, (a ſort of private vulgar ſpirited men, whereof no Society was ever yet free) this Trifle, this inconſiderable retrenching of their pre<g ref="char:EOLhyphen"/>ſent Market-Clerks income, muſt carry the name of a juſt occaſion for altering their minds, and put<g ref="char:EOLhyphen"/>ting a ſtop (as it did) to the buſineſs; ſo that at the time and place appointed, I giving them a meeting to treat of a way of Settlement, ſuch doubts were caſt, and objections made, (in that particular eſpecially)
+<pb n="11" facs="tcp:152464:9"/>that I plainly perceiving they were quite and clean gon<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> off from their former votes, and intended nothing leſs than a ſettlement of the buſineſs according to my Propoſals and their own Votes, could not but ſhew my ſelf ſenſible of the diſappointment; and thereupon in ſome diſcontent, deſired a diſſolving of their Meet<g ref="char:EOLhyphen"/>ing, and went my way.</p>
+            <p>They perceiving it, and thinking it ſomewhat too early to break off with me ſo ſoon, (as the malevo<g ref="char:EOLhyphen"/>lent party more than ſeemed willing enough to do) conſulted and found an expedient for removing this impediment, and maſtering this difficulty; but not un<g ref="char:EOLhyphen"/>til by my profers and condeſcentions I had yeilded to them ſo far in the qualifying and regulating that matter of a Free-Market, as fully to ſatisfie all op<g ref="char:EOLhyphen"/>poſers, by my conſenting to the tolling of all things in a manner, excepting only that which is not the third part of what things are tollable, Piggs and Poul<g ref="char:EOLhyphen"/>try.</p>
+            <p>And now the matter (of Settlement) was afreſh propounded in Burgmote, where (after thanks retur<g ref="char:EOLhyphen"/>ned me for my condeſcenſions) it was then agreed to proceed, and writings voted to be drawn up between us, to ſettle it accordingly. And drawn they were, whereat upon peruſal I taking ſome exceptions, as finding them not according to my propoſitions, in ſe<g ref="char:EOLhyphen"/>veral particulars, I made the Burgmote acquainted with them; who by Mr. Recorder ſatisfying me, as to the main of my exceptions, ſo as we were arrived at a right underſtanding of each others meaning, I was now ready for a cloſe with them upon their own terms; and by the mediation of the ſame hand that before, ſignifying ſo much unto them at the next Burgmote after, they once more reſumed the buſineſs, and en<g ref="char:EOLhyphen"/>tred into a freſh debate about it.</p>
+            <pb n="12" facs="tcp:152464:10"/>
+            <p> By this time (by the means of a pragmatical men<g ref="char:EOLhyphen"/>ber of the Houſe, who looking AWRY both on the Founder and his Work, and from the firſt taken all occaſions to evidence his diſ-affection and diſſant) the oppoſite party was grown ſo ſtrong, that the re<g ref="char:EOLhyphen"/>ſult of this debate was not only a diſſent and proteſt againſt their proceeding with me, but a caſting off the buſineſs with a plain and uncivil jeer. For in regard the repairs were to be caſt on the Corporation (a burthen nevertheleſs ſo inconſiderable as cannot a<g ref="char:EOLhyphen"/>mount to 20 <hi>s. per annum,</hi> for an age; or rather no burthen at all, in regard the benefit of a room un<g ref="char:EOLhyphen"/>der the Stair caſe, which was offered them, would more then recompenſe it:) they would none of it, <hi>they would not</hi> (forſooth) <hi>take a houſe to keep it in repair, for me and my brother to walk in.</hi>
+            </p>
+            <p>Truth is (by the Propoſitions) a reſervation there is of mine and my brothers intereſt in one of the rooms during our lives, in common with the Corpo<g ref="char:EOLhyphen"/>ration, and yet (as they were aſſured) but at ſpare times only when the Corporation had no occaſion to uſe it themſelves. And beſides, we are (they know) perſons well in years, and (unleſs they fear our Ghoſts may haunt the place after we are dead) can<g ref="char:EOLhyphen"/>not probably trouble them long with our walking there; our walk being now down the hill, and by courſe of nature neer an end. See by the way (courteous Rea<g ref="char:EOLhyphen"/>der) how ſtudious theſe men are to find and caſt ob<g ref="char:EOLhyphen"/>ſtructions in the way of their own advantage, and to ward and ſtave off an intended boon! And on the contrary, how willing I have been to remove their obſtructions, and how loth to be put upon turning that to my private emolument, which I intended for a publick good!</p>
+            <pb n="13" facs="tcp:152464:10"/>
+            <p> To ſumme up their objections: 1. They muſt abridge their Clerk of the Market of ſome inconſiderable part of his profit, which he may very well ſpare: how un-adviſed elſe was that Townſman, whoſe offer, though refuſed, was, if he might have the place, to do all the duties of it; to admit of a Free-Market, and yet to pay the City 5 <hi>l. per annum?</hi> 2. They muſt be at perhaps 20 <hi>s.</hi> charge <hi>per annum</hi> in repaires; and have more than recompenſe for it by that room un<g ref="char:EOLhyphen"/>der, the Staires. 3. They muſt permit the Founder and his Brother (ancient men both) to inter-common with them in the uſe of one of the rooms, at ſpare times.</p>
+            <p>How trivial, how ridiculous, how inſignificant, and empty are theſe exceptions, ſhall I call them, or theſe cavils! What little or no detriment or diſcom<g ref="char:EOLhyphen"/>modity doth or can attend them, compared with the great commodity and advantage which by the Propo<g ref="char:EOLhyphen"/>ſals, if embraced, would redound (in point sof ac<g ref="char:EOLhyphen"/>commodation) to the Magiſtrates and the Companies, for Meetings and Treatments; and (in point of Cha<g ref="char:EOLhyphen"/>rity) to the Poor, by a conſtant ſtock and proviſion of Corn there to be ſtored up for them, towards which and for ſeconding me in my intended handſell, divers Gentlemen and others (who now will do nothing) had declared their forwardneſs in ſuch a bountiful way of contribution, as probably both the Store-houſes, (the two upper rooms) capable of Fourſcore quar<g ref="char:EOLhyphen"/>ters of Corn, would ſhortly have been full? What a ſhame muſt it needs be the whileſt to the City, and how can they anſwer it to poſterity eſpecially, to ſuffer ſo publick, ſo pregnant and permanent a boon and benefit to their Corporation and the Poor, not eaſily to be matched in a caſe of this nature, all the Kingdom over, for ever to miſcarry and be loſt, ra<g ref="char:EOLhyphen"/>ther
+<pb n="14" facs="tcp:152464:11"/>than accept it upon conditions ſo eaſte of por<g ref="char:EOLhyphen"/>formance; ſo very eaſie, I ſay, as being now refu<g ref="char:EOLhyphen"/>ſed, they can never, whileſt the memory of this in<g ref="char:EOLhyphen"/>gratitude doth laſt, reaſonably expect to be tried with the ſame, or the like again?</p>
+            <p>Yet refuſed them they have. And ſince they have had no more reaſon, I am reſolved (without hearkning to any further treaty with them, after ſo much baffling) to ſhew that I have not ſo little, as to obtrude, ſquander, and caſt away all my coſt, my kindneſs, and my charity (wherein I had it in my mind to have proceeded, by doing ſomewhat towards the Cities ac<g ref="char:EOLhyphen"/>commodation and ſupply with, what is much wanting to it, more Water,) upon ſuch unworthy, ungrateful objects: or to woo them to accept of that, which, if they had any courtſhip, they had reaſon to imploy it in perſwading me to part with. But ſince what, like a good Citizen, I once intended for the Cities pub<g ref="char:EOLhyphen"/>lick commodity, is rejected, I ſhall, like a good husband, take it home and convert it to my own pri<g ref="char:EOLhyphen"/>vate advantage, all but the Corn, which I ſhall be<g ref="char:EOLhyphen"/>ſtow where it may be better accepted.</p>
+            <p>And in ſo doing, whether I be to blame or not, I am willing to refer to the judgement of any but ſuch thankleſs perſons as thoſe (the malevolent vulgar party among them, I mean; for them only I brand, which, yet, it ſeems, are the more prevalent party) I have had to deal withal: a ſort of men that have no ſenſe of the Cities either ornament or honor; no regard to the Poors, either relief or prayers; ſtudy<g ref="char:EOLhyphen"/>ing only matter of preſent profit to themſelves, and thinking that cannot be a good work or thank-worthy, which requires any whit at all of contribution from themſelves, to complete or maintain it: but are ready, with <hi>Judas,</hi> to reckon all as waſt, that goes beſide
+<pb n="15" facs="tcp:152464:11"/>the bag: nothing to be acceptable, but what is pro<g ref="char:EOLhyphen"/>fitable: All but traſh that brings no caſh to the <hi>Cham<g ref="char:EOLhyphen"/>ber.</hi> But having appealed unto others for their judge<g ref="char:EOLhyphen"/>ment, I may perhaps be blamed for anticipating it with mine. If ſo, I crave pardon, and, with full ſubmiſſion, caſt my ſelf upon the verdict of any but thoſe who have dealt ſo unthankfully and unworthily with</p>
+            <closer>
+               <signed>The humble Appellant <hi>John Somner.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
